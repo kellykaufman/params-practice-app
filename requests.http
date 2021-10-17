@@ -1,0 +1,6 @@
+POST http://localhost:3000/body_params.json
+Content-Type: application/json
+
+{
+  "phrase" = "Better to be pissed off than pissed on!"
+}
